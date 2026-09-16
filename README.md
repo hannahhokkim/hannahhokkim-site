@@ -24,6 +24,22 @@ It currently sits inside `Documents/ChatGPT/Jobs`, which is itself a git repo. D
 `hannahhokkim-site` folder somewhere standalone first — `~/Documents/hannahhokkim-site` is fine.
 Nothing inside it cares where it lives.
 
+## Step 0.5 — one cleanup command
+
+I built this in a sandbox that isn't allowed to delete files inside your folders, so git left some
+junk behind: a `.git/stale-locks/` folder and some `tmp_obj_*` files under `.git/objects/`. They're
+harmless, but git will complain until they're gone. Once the folder is moved (Step 0), run:
+
+```bash
+rm -rf .git/stale-locks
+git gc --prune=now
+git status
+```
+
+`git status` should print "nothing to commit, working tree clean". If any git command ever says
+*"Another git process seems to be running"*, it's a leftover lock — `rm -f .git/*.lock
+.git/index.lock` and try again.
+
 ## Step 1 — install Quarto (for local preview)
 
 Download from <https://quarto.org/docs/get-started/>. If you have RStudio, you already have it.

@@ -1,0 +1,244 @@
+---
+title: "how do children think about coordinating collective life?"
+description: "the development of cognition about collective life"
+---
+
+::: {.lede}
+Human life is collective life. From families to classrooms to nations, we depend on groups to
+accomplish what no individual could do alone — but coordinating a group poses problems that are
+different in kind from navigating an interaction with a single partner.
+:::
+
+Knowing what one person wants, knows, or intends is not enough to get by in a group. Groups must
+reconcile competing interests, decide who has a say, and agree on rules that guide everyone. Adults
+inherit a rich toolkit for these problems, from voting to drawing lots. My research asks how
+children come to understand that toolkit — and, more broadly, how people learn to see rules and
+procedures as legitimate. I study this developmentally because childhood is a particularly useful
+window: children meet disagreement, hierarchy, and group decision-making long before they receive
+any formal instruction in procedure, so their judgments reveal which expectations emerge early and
+which are revised through experience.
+
+```{=html}
+<div class="program-figure" role="group" aria-label="Three strands of the research program, ordered by increasing coordination demand">
+  <p class="axis-label">Increasing coordination demands as groups scale &nbsp;→</p>
+  <div class="stages">
+
+    <div class="stage g1">
+      <div class="node" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.4">
+          <line x1="11.4" y1="13" x2="14.6" y2="13"></line>
+          <circle cx="8" cy="13" r="3.1" fill="currentColor" stroke="none"></circle>
+          <circle cx="18" cy="13" r="3.1"></circle>
+        </svg>
+      </div>
+      <h3><span class="n">1</span>Reasoning about individuals and rules</h3>
+      <p class="q">Who is this, and how will they act?</p>
+      <ul>
+        <li><b>Generalizing dominance</b><em>Developmental Psychology</em><span>, 2024</span></li>
+        <li><b>Condemnation as a signal</b><em>Child Development</em><span>, 2020</span></li>
+        <li><b>Self-serving use of fair rules</b><em>Psychological Science</em><span>, R&amp;R</span></li>
+      </ul>
+    </div>
+
+    <div class="stage g2">
+      <div class="node" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.3">
+          <circle cx="8.5" cy="8" r="2.2" fill="currentColor" stroke="none"></circle>
+          <circle cx="8.5" cy="13" r="2.2" fill="currentColor" stroke="none"></circle>
+          <circle cx="8.5" cy="18" r="2.2" fill="currentColor" stroke="none"></circle>
+          <line x1="13" y1="6" x2="13" y2="20" stroke-dasharray="2 2.2"></line>
+          <circle cx="17.5" cy="9.5" r="2.2"></circle>
+          <circle cx="17.5" cy="16.5" r="2.2"></circle>
+        </svg>
+      </div>
+      <h3><span class="n">2</span>Group decision-procedures</h3>
+      <p class="q">Who decides, and by what rule?</p>
+      <ul>
+        <li><b>When the majority should rule</b><em>Cognition</em><span>, 2025</span></li>
+        <li><b>Who counts as having a voice</b><em>JEP: General</em><span>, 2026</span></li>
+        <li><b>The cost of reaching agreement</b><em>Cognition</em><span>, 2025</span></li>
+      </ul>
+    </div>
+
+    <div class="stage g3">
+      <div class="node" aria-hidden="true">
+        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" stroke="currentColor" stroke-width="1.3">
+          <rect x="8" y="9" width="10" height="8" rx="1.2"></rect>
+          <line x1="10.2" y1="11.6" x2="15.8" y2="11.6"></line>
+          <line x1="10.2" y1="14.2" x2="14" y2="14.2"></line>
+          <circle cx="13" cy="4.3" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="13" cy="21.7" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="4.3" cy="13" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="21.7" cy="13" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="6.8" cy="6.8" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="19.2" cy="6.8" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="6.8" cy="19.2" r="1.35" fill="currentColor" stroke="none"></circle>
+          <circle cx="19.2" cy="19.2" r="1.35" fill="currentColor" stroke="none"></circle>
+        </svg>
+      </div>
+      <h3><span class="n">3</span>Formalizing rules</h3>
+      <p class="q">When must norms become explicit?</p>
+      <ul>
+        <li><b>When groups write rules down</b><em>Proc. Cognitive Science Society</em><span>, 2025</span></li>
+        <li><b>What a written rule reveals</b><em>Proc. Cognitive Science Society</em><span>, 2026</span></li>
+      </ul>
+    </div>
+
+  </div>
+  <p class="fig-caption">
+    The three strands are ordered by how much coordination a situation demands. Where groups are
+    small and familiar, knowing individuals is enough. As they grow, preferences must be aggregated
+    by a procedure. Where even that is not enough to sustain agreement over time, norms get written
+    down.
+  </p>
+</div>
+```
+
+## 1 · reasoning about individuals and rules
+
+::: {.strand-q}
+Who is this, and how will they act?
+:::
+
+One way to navigate social life is to work out who other people are and anticipate how they will
+act. I have found that children generalize dominance relationships across contexts to predict who
+will prevail in future conflicts, but do not generalize submissiveness the same way — power, but
+not deference, is treated as a property that travels with a person. I have also studied how
+children draw moral conclusions from the way people condemn wrongdoing, treating condemnation as a
+costly signal of the condemner's own commitments.
+
+A third strand extends this reasoning to rules themselves. Principles like equality, merit, and
+turn-taking can supply genuine reasons for a decision, but they can also be invoked strategically —
+favoring equality when equality pays, then switching to merit when merit does instead. I examine
+when children begin to distinguish principled from self-serving rule use, and when they use a
+person's procedural choices to predict how that person will behave later.
+
+::: {.cites .s1}
+[Representative publications]{.cites-label}
+
+- Hok, H.\*, Vasquez, K.\*, Barakzai, A., & Shaw, A. (2024). [The nonmeek inherit the earth: Children generalize dominance, but not submissiveness](https://doi.org/10.1037/dev0001696). *Developmental Psychology, 60*(7), 1187.
+- Hok, H., Martin, A., Trail, Z., & Shaw, A. (2020). [When children treat condemnation as a signal: The costs and benefits of condemnation](https://doi.org/10.1111/cdev.13323). *Child Development, 91*(5), 1439–1455.
+- Hok, H., & Shaw, A. What's fair is unfair: Children's beliefs about the flexible use of impartial decision-rules. *Psychological Science*. [Under revision.]{.note}
+- [Related collaborative work]{.related-tag} Santhanagopalan, R., Hok, H., Shaw, A., & Kinzler, K. D. (2025). [The ontogeny of attitudes toward migrants](https://doi.org/10.1111/desc.13599). *Developmental Science, 28*(2), e13599.
+:::
+
+## 2 · group decision-procedures
+
+::: {.strand-q}
+Who decides, and by what rule?
+:::
+
+Knowing what each person will do does not settle what a group should do when its members disagree.
+Groups need decision rules that aggregate preferences without deferring to any one person. Across
+four experiments with 4- to 9-year-olds in the United States and China, children preferred majority
+rule to letting a single individual decide by age four, and preferred it to a coin flip — a
+procedure they already regard as fair — by age six. Their endorsement was not indiscriminate:
+majority rule was appropriate for settling shared preferences, like what a group should eat or do
+together, but not for dictating an individual's personal choice or legitimizing clearly immoral
+behavior. Children do not treat majorities as a brute social force; they show an early,
+context-sensitive understanding of procedural legitimacy.
+
+Two further questions surround the vote itself. First, whose preferences count? Comparing
+universalist voting to systems restricted to experts or to morally good decision-makers, both
+children and adults preferred systems in which everyone had a voice, and judged them fairer even
+when exclusion might be more effective — though older participants more readily acknowledged
+exclusion's potential benefits. Second, how costly is agreement to reach? Children pick up on
+structural coordination costs early: by age six they expect larger groups, and groups split among
+more competing positions, to take longer to decide.
+
+::: {.cites .s2}
+[Representative publications]{.cites-label}
+
+- Hok, H., Gerdin, E., Zhao, X., & Shaw, A. (2025). [When should the majority rule? Children's developing intuitions about majority rules voting](https://doi.org/10.1016/j.cognition.2025.106128). *Cognition, 260*, 106128.
+- Hok, H., Silva, G., Shaw, A., & Yang, F. (2026). [Who should have a voice? Children's evaluations of universalist versus exclusive voting](https://doi.org/10.1037/xge0001795). *Journal of Experimental Psychology: General, 155*(1), 94.
+- Richardson, E., Hok, H., Shaw, A., & Keil, F. C. (2025). [Herding cats: Children and adults infer collective decision speed from team size and diversity](https://doi.org/10.1016/j.cognition.2025.106211). *Cognition, 263*, 106211.
+:::
+
+## 3 · formalizing rules
+
+::: {.strand-q}
+When must norms become explicit?
+:::
+
+Most social norms are never written down; they are sustained through shared understandings members
+are expected to recognize. Formal rules seem to matter when those understandings stop being
+sufficient. Across five experiments, adults and children judged which groups would adopt formal
+rules and what problems those rules would solve. Adults expected formalization in larger and more
+diverse groups, in groups marked by internal disagreement, and among members who were less socially
+close — but not merely in response to external hardship like disaster or scarcity. Their
+expectations were best predicted by judgments that a group faced social-dynamic problems, such as
+weak shared assumptions about what a norm requires, rather than problems of individual misbehavior
+alone. Children ages 8 to 11 connected formal rules to these same problems, differentiating less
+sharply among them.
+
+This points to what I find most interesting about written rules: their double life. A formal rule is
+a tool for future coordination, but it is also a trace of a group's history. Children and adults
+alike infer more past rule-breaking, yet less present rule-breaking, where a rule has been made
+explicit.
+
+::: {.cites .s3}
+[Representative publications]{.cites-label}
+
+- Hok, H., Thomas, A. J., & Saxe, R. (2025). [Written in stone: Lay intuitions about the emergence of formal rules](https://escholarship.org/uc/item/8tf7j3v5). *Proceedings of the Annual Meeting of the Cognitive Science Society, 47*.
+- Hok, H., Saxe, R., & Thomas, A. J. (2026). US children and adults infer higher past rule-breaking, but lower present rule-breaking, in the presence of formal rules. *Proceedings of the Annual Meeting of the Cognitive Science Society, 48*.
+:::
+
+## what comes next
+
+My next line of work brings these questions into live peer interaction. Much of developmental social
+cognition relies on controlled vignettes, dyadic tasks, or observation of naturally occurring
+conflict — approaches that make it hard to study the conditions under which group-level procedures
+actually become necessary. Working with SchoolSpace.io, an educational platform hosting more than
+100,000 students in digital classrooms, I am developing paradigms in which children ages 4 to 6 and
+8 to 10 make decisions together synchronously while I vary group size, familiarity, and preference
+conflict. The prediction follows directly from the formalization work: when children are few,
+familiar, and aligned, interpersonal knowledge suffices and they can negotiate case by case; as
+groups grow larger and less familiar, procedures that treat members interchangeably become more
+valuable.
+
+Across all of this work, my goal is to explain how children come to understand collective life as
+something people make, not simply something they inherit.
+
+::: {.secondary}
+[Additional lines of work]{.eyebrow}
+
+Two collaborative strands run alongside the core program and share its central concern — how
+fairness and coordination work when the participants are not simply familiar peers.
+
+## children's fairness toward robots and machines
+
+If children's fairness judgments depend on who — or what — is receiving a resource, then robots are
+a useful test case. In collaboration with researchers in human-robot interaction, I study when
+children think it is acceptable to give a robot less than a human peer, and how those judgments
+compare to judgments about inanimate objects like toys. This work asks what children take a robot to
+be for purposes of fair distribution, and connects the developmental literature on fairness to
+practical questions about how children will treat the social machines they increasingly grow up
+with.
+
+::: {.cites}
+[Representative publications]{.cites-label}
+
+- Ayalon, O., Hok, H., Shaw, A., & Gordon, G. (2023). [When it is ok to give the robot less: Children's fairness intuitions towards robots](https://doi.org/10.1007/s12369-023-01047-4). *International Journal of Social Robotics, 15*(9), 1581–1601.
+- Ayalon, O., Hok, H., Shaw, A., & Gordon, G. (2026). [From children to toy trucks, and robots too: Exploring children's fairness perceptions](https://doi.org/10.1016/j.chbr.2026.101136). *Computers in Human Behavior Reports, 22*, 101136.
+:::
+
+## open science, metascience, and digital scholarship
+
+Scientific communities face the same coordination problems I study in children's groups: they need
+norms, procedures, and infrastructure to produce trustworthy knowledge together. Through the Center
+for Research in Equitable and Open Scholarship at MIT Libraries and related collaborations, I work
+on how the systems through which knowledge is produced and shared can become more transparent,
+equitable, and useful — surveying researchers' support for open science practices, developing
+quality-control methods for curating 3D and immersive research data, evaluating AI tools in
+educational settings, and analyzing political discourse across online platforms. I am particularly
+interested in the role university libraries can play in this work.
+
+::: {.cites}
+[Representative publications]{.cites-label}
+
+- Thomas, A. J., Hok, H., Bourg, C., & Saxe, R. (2026). [Support for open science is equally high in opt-in versus representative samples of scientists from a research-focused U.S. university](https://doi.org/10.1162/QSS.a.398). *Quantitative Science Studies, 7*, 72–82.
+- Cook, M., Hok, H., He, H., & Lischer-Katz, Z. (2026). [Immersive quality control for 3D data curation](https://doi.org/10.47989/ir31iConf64136). *Information Research, 31*(iConf), 900–921. [Best Full Research Paper finalist.]{.note}
+- Mills, N., Hok, H., Dressen, A., & Veillas, Q. (2025). [The design and evaluation of an interactive AI companion for foreign language writing](https://doi.org/10.1111/flan.12790). *Foreign Language Annals, 58*(1), 40–69.
+- Wang, Y., Abdellatif, A., Deligianni, A., Hok, H., Cetinkaya, Y. M., & Elmas, T. (2026). [Grievance politics vs. policy debates: A cross-platform analysis of conservative discourse on Truth Social and Reddit](https://ojs.aaai.org/index.php/ICWSM/article/view/42758). *Proceedings of the International AAAI Conference on Web and Social Media, 20*.
+:::
+:::

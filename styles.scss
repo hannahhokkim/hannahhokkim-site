@@ -1,0 +1,356 @@
+/*-- scss:defaults --*/
+
+// palette
+$paper:        #F4F5F2;
+$surface:      #FBFBF8;
+$surface-alt:  #E9ECE7;
+$ink:          #15191A;
+$ink-soft:     #4C5551;
+$ink-faint:    #737C78;
+$rule:         #D2D7D0;
+$rule-strong:  #B4BCB5;
+$pine:         #2C5F55;
+$bronze:       #8F6231;
+
+$body-bg:    $paper;
+$body-color: $ink;
+$link-color: $pine;
+
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-monospace:  "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+$headings-font-family:   "Newsreader", Georgia, serif;
+
+$font-size-root:    16.5px;
+$body-line-height:  1.62;
+$headings-font-weight: 600;
+
+$navbar-bg: $paper;
+$navbar-fg: $ink-soft;
+$footer-bg: $paper;
+$footer-fg: $ink-faint;
+
+/*-- scss:rules --*/
+
+// ---------- shared type ----------
+
+body { letter-spacing: 0; }
+
+h1, h2, h3, .quarto-title h1.title {
+  letter-spacing: -.012em;
+  text-wrap: balance;
+}
+
+h1.title {
+  font-weight: 500;
+  font-size: clamp(2rem, 5.6vw, 2.8rem);
+  line-height: 1.12;
+}
+
+.quarto-title-block .description {
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: $ink-soft;
+}
+
+#quarto-content h2 {
+  font-size: 1.5rem;
+  margin-top: 2.4rem;
+  padding-top: .95rem;
+  border-top: 1px solid $rule;
+  border-bottom: none;
+  position: relative;
+}
+
+#quarto-content h2::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 2.6rem;
+  height: 2px;
+  background: $pine;
+}
+
+#quarto-content h3 {
+  font-size: 1.15rem;
+  margin-top: 1.9rem;
+}
+
+p { max-width: 40em; }
+
+.navbar { border-bottom: 1px solid $rule-strong; }
+.navbar-brand { font-family: "Newsreader", Georgia, serif; font-size: 1.15rem; }
+.nav-link { font-size: .95rem; }
+
+.nav-footer { border-top: 1px solid $rule-strong; font-size: .85rem; }
+
+// lede paragraph
+.lede {
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 1.24rem;
+  line-height: 1.55;
+  max-width: 38em;
+}
+
+// the guiding question under a strand heading
+.strand-q {
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: $ink-soft;
+  margin-top: -.35rem;
+}
+
+// ---------- citation blocks ----------
+
+.cites {
+  margin: 1.4rem 0 0;
+  padding: .95rem 1.15rem 1rem;
+  background: $surface;
+  border: 1px solid $rule;
+  border-left: 3px solid $pine;
+  border-radius: 2px;
+}
+
+.cites .cites-label {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .64rem;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: $bronze;
+  margin: 0 0 .6rem;
+  max-width: none;
+}
+
+.cites ul { list-style: none; margin: 0; padding: 0; }
+.cites li {
+  font-size: .89rem;
+  line-height: 1.5;
+  color: $ink-soft;
+  margin-bottom: .7rem;
+}
+.cites li:last-child { margin-bottom: 0; }
+.cites a { color: $ink; font-weight: 500; text-decoration-color: $rule-strong; text-underline-offset: 2px; }
+.cites a:hover { color: $pine; text-decoration-color: $pine; }
+.cites .note { color: $ink-faint; font-style: italic; }
+
+.cites.s1 { border-left-color: #A9662B; }
+.cites.s2 { border-left-color: #1B7365; }
+.cites.s3 { border-left-color: #45568F; }
+
+.related-tag {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .62rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  display: block;
+  margin-bottom: .2rem;
+}
+
+// ---------- publications list ----------
+
+.pubs { list-style: none; padding-left: 0; }
+.pubs li {
+  font-size: .93rem;
+  line-height: 1.55;
+  color: $ink-soft;
+  padding-left: 1.6rem;
+  text-indent: -1.6rem;
+  margin-bottom: .85rem;
+  max-width: 44em;
+}
+.pubs a { color: $ink; font-weight: 500; text-decoration-color: $rule-strong; text-underline-offset: 2px; }
+.pubs a:hover { color: $pine; text-decoration-color: $pine; }
+.pubs .venue { font-style: italic; }
+.pubs .note { color: $ink-faint; font-style: italic; }
+
+// ---------- research program figure ----------
+
+.program-figure {
+  --s1: #A9662B; --s1-tint: #F6EDE3;
+  --s2: #1B7365; --s2-tint: #E2EFEB;
+  --s3: #45568F; --s3-tint: #E7EAF4;
+
+  margin: 1.9rem 0 .5rem;
+  padding: 1.6rem 1.5rem 1.5rem;
+  background: $surface;
+  border: 1px solid $rule;
+  border-radius: 3px;
+}
+
+.program-figure .axis-label {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .64rem;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  text-align: center;
+  margin: 0 0 1.1rem;
+  max-width: none;
+}
+
+.program-figure .stages {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: start;
+}
+
+.program-figure .stage {
+  position: relative;
+  padding: 3.15rem 1.3rem 0 0;
+  --sc: #{$pine};
+  --sct: #{$surface};
+}
+
+.program-figure .stage.g1 { --sc: var(--s1); --sct: var(--s1-tint); }
+.program-figure .stage.g2 { --sc: var(--s2); --sct: var(--s2-tint); }
+.program-figure .stage.g3 { --sc: var(--s3); --sct: var(--s3-tint); padding-right: 1.9rem; }
+
+.program-figure .stage::before {
+  content: "";
+  position: absolute;
+  top: 1.32rem;
+  left: 0;
+  right: 0;
+  height: 1.5px;
+  background: var(--sc);
+  opacity: .45;
+}
+
+.program-figure .stage.g3::after {
+  content: "";
+  position: absolute;
+  top: .85rem;
+  right: 0;
+  width: 0; height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid var(--s3);
+  opacity: .65;
+}
+
+.program-figure .node {
+  position: absolute;
+  top: 0; left: 0;
+  width: 2.7rem; height: 2.7rem;
+  border-radius: 50%;
+  background: var(--sct);
+  border: 1.5px solid var(--sc);
+  display: grid;
+  place-items: center;
+  color: var(--sc);
+}
+
+.program-figure .node svg { display: block; }
+
+.program-figure .stage h3 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: .98rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--sc);
+  margin: 0 0 .4rem;
+  padding: 0;
+  border: none;
+}
+
+.program-figure .stage h3 .n {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-size: .75rem;
+  opacity: .7;
+  margin-right: .35rem;
+}
+
+.program-figure .stage .q {
+  font-family: "Newsreader", Georgia, serif;
+  font-style: italic;
+  font-size: .95rem;
+  line-height: 1.4;
+  color: $ink-faint;
+  margin: 0 0 .85rem;
+  max-width: none;
+}
+
+.program-figure .stage ul { list-style: none; margin: 0; padding: 0; }
+
+.program-figure .stage li {
+  font-size: .84rem;
+  line-height: 1.4;
+  position: relative;
+  padding-left: .8rem;
+  margin-bottom: .6rem;
+}
+
+.program-figure .stage li:last-child { margin-bottom: 0; }
+
+.program-figure .stage li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: .52em;
+  width: 4px; height: 4px;
+  border-radius: 50%;
+  background: var(--sc);
+}
+
+.program-figure .stage li b { font-weight: 600; color: $ink; display: block; }
+.program-figure .stage li em { font-style: italic; color: $ink-faint; font-size: .95em; }
+.program-figure .stage li span { color: $ink-faint; font-size: .95em; }
+
+.program-figure .fig-caption {
+  font-size: .8rem;
+  line-height: 1.5;
+  color: $ink-faint;
+  margin: 1.5rem 0 0;
+  padding-top: .9rem;
+  border-top: 1px solid $rule;
+  max-width: none;
+}
+
+@media (max-width: 44rem) {
+  .program-figure .stages { grid-template-columns: 1fr; gap: 1.6rem; }
+  .program-figure .stage { padding: 0 0 0 3.5rem; min-height: 2.7rem; }
+  .program-figure .stage.g3 { padding-right: 0; }
+  .program-figure .stage::before {
+    top: 1.35rem; bottom: -1.6rem; left: 1.32rem;
+    right: auto; width: 1.5px; height: auto;
+  }
+  .program-figure .stage.g3::before { bottom: auto; height: 0; }
+  .program-figure .stage.g3::after { display: none; }
+}
+
+// ---------- secondary region ----------
+
+.secondary {
+  margin-top: 3.2rem;
+  padding: 1.9rem 1.6rem 1.7rem;
+  background: $surface-alt;
+  border: 1px solid $rule;
+  border-radius: 3px;
+}
+
+.secondary .eyebrow {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .68rem;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: $ink-faint;
+  margin: 0 0 .6rem;
+  max-width: none;
+}
+
+#quarto-content .secondary h2 {
+  font-size: 1.24rem;
+  margin-top: 1.9rem;
+}
+
+#quarto-content .secondary > h3:first-of-type,
+#quarto-content .secondary h2:first-of-type {
+  margin-top: .4rem;
+  border-top: none;
+  padding-top: 0;
+}
+
+#quarto-content .secondary h2:first-of-type::before { display: none; }

@@ -1,0 +1,21 @@
+---
+title: "hannah hok kim"
+description: "developmental psychologist — rules, procedures, groups, and (social) epistemologies of science"
+page-layout: full
+---
+
+::: {.lede}
+i'm hannah! i'm a developmental psychologist interested in rules, procedures, groups, and (social) epistemologies of science.
+:::
+
+i'm a postdoctoral associate at MIT and Harvard, working with Rebecca Saxe in the
+[Saxelab](https://saxelab.mit.edu/), Ashley Thomas in the Thomas Lab, and the
+[Center for Research on Equitable & Open Scholarship](https://creos.mit.edu/) team in the
+library. i did my doctoral work at the University of Chicago in the
+[DIBS Lab](https://www.dibslab.uchicago.edu/) with Alex Shaw.
+
+my [research](research.qmd) asks how children come to understand the toolkit that makes
+collective life possible — how a group should decide, who should have a voice, and when shared
+expectations need to become explicit rules.
+
+[hok1@mit.edu](mailto:hok1@mit.edu)

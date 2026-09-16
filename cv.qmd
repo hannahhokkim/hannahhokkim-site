@@ -1,0 +1,64 @@
+---
+title: "cv"
+---
+
+[Download CV (PDF)](files/hannah-hok-kim-cv.pdf){.btn .btn-outline-secondary .btn-sm}
+
+## academic appointments and education
+
+**MIT**, Postdoctoral Associate (2024–present)<br>
+Saxelab, Brain & Cognitive Sciences · Center for Research in Equitable and Open Scholarship, MIT Libraries
+
+**Harvard University**, Postdoctoral Associate (2024–present)<br>
+Thomas Lab, Department of Psychology
+
+**University of Chicago** (2017–2023)<br>
+PhD in Experimental Psychology, Developmental Area<br>
+Dissertation: *What's fair is unfair!: Children's contextual understanding of impartial rules*<br>
+Committee: Alex Shaw (chair), Amanda Woodward, Lin Bian, Fan Yang
+
+**Kalamazoo College** (2013–2017)<br>
+B.A. in Psychology and Philosophy
+
+**Rheinische Friedrich-Wilhelms-Universität Bonn** (Sept. 2015–March 2016)
+
+## publications
+
+See [publications](publications.qmd) for the full list.
+
+## invited talks
+
+- Developmental Studies Brown Bag, Stanford University (Oct. 2026)
+- Developmental Studies Brown Bag, Brown University (Oct. 2026)
+- Developmental Studies Brown Bag, University of Chicago (Apr. 2026)
+- MAC Lab, Duke University (Mar. 2026)
+- CEU Democracy Institute — *The Psychology of Legitimacy* (Jan. 2026)
+- Lab of Developmental Studies Seminar, Harvard University (Nov. 2025, Oct. 2024)
+- ECCL Meeting, MIT (Oct. 2025)
+- Thomas Lab, Harvard University (June 2024)
+- Saxelab, MIT (May 2024)
+- Emerging Research in Collective Intelligence Webinar, Institut Jean Nicod & UM6P (June 2020)
+- Language & Cognition Brownbag, University of Michigan (Dec. 2020)
+- Morality Lab, Boston College (Dec. 2020)
+- Developmental Brownbag, University of Chicago (Dec. 2021)
+
+## teaching
+
+**Teaching Fellow** — Intro to Statistics for the Behavioral Sciences, Harvard University (Fall 2023, Spring 2024)
+
+**Teaching Assistant** — University of Chicago: Social Psychology (2021), Developmental Psychology
+(2020, 2021), Development of Social Cognition (2020), Social Neuroscience (2019)
+
+**Teaching Assistant** — Social Psychology, Kalamazoo College (2016)
+
+## panels & workshops
+
+- Open Science Workshop, Summer Internship Program, Harvard University (July 2025)
+- *Rewriting foreign language education through AI*, Silver Lining for Learning Podcast (Apr. 2025)
+- R & Data Analysis Workshop, Graduate School of Design, Harvard University (May 2024)
+- *Research your teaching: A panel discussion*, Research-Informed Teaching & Learning, Harvard University (May 2024)
+- Growing Up in Science, Psychology Department, New York University (2023)
+
+## service
+
+PPREP Mentor, Harvard University (2023–present)

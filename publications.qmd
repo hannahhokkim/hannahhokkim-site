@@ -1,0 +1,43 @@
+---
+title: "publications"
+description: "\\* denotes equal contribution"
+---
+
+## peer-reviewed journal articles
+
+### social cognitive development
+
+::: {.pubs}
+- Hok, H., & Thomas, A. J. (accepted commentary). Relationship-bound roles and the Institutional Stance: The question of role-filler independence in social cognition. [*Behavioral and Brain Sciences*]{.venue}.
+- Ayalon, O., Hok, H., Shaw, A., & Gordon, G. (2026). [From children to toy trucks, and robots too: Exploring children's fairness perceptions](https://doi.org/10.1016/j.chbr.2026.101136). [*Computers in Human Behavior Reports, 22*]{.venue}, 101136.
+- Hok, H., Silva, G., Shaw, A., & Yang, F. (2026). [Who should have a voice? Children's evaluations of universalist versus exclusive voting](https://doi.org/10.1037/xge0001795). [*Journal of Experimental Psychology: General, 155*]{.venue}(1), 94.
+- Hok, H., Gerdin, E., Zhao, X., & Shaw, A. (2025). [When should the majority rule? Children's developing intuitions about majority rules voting](https://doi.org/10.1016/j.cognition.2025.106128). [*Cognition, 260*]{.venue}, 106128.
+- Richardson, E., Hok, H., Shaw, A., & Keil, F. C. (2025). [Herding cats: Children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size](https://doi.org/10.1016/j.cognition.2025.106211). [*Cognition, 263*]{.venue}, 106211.
+- Santhanagopalan, R., Hok, H., Shaw, A., & Kinzler, K. D. (2025). [The ontogeny of attitudes toward migrants](https://doi.org/10.1111/desc.13599). [*Developmental Science, 28*]{.venue}(2), e13599.
+- Hok, H.\*, Vasquez, K.\*, Barakzai, A., & Shaw, A. (2024). [The nonmeek inherit the earth: Children generalize dominance, but not submissiveness](https://doi.org/10.1037/dev0001696). [*Developmental Psychology, 60*]{.venue}(7), 1187.
+- Ayalon, O., Hok, H., Shaw, A., & Gordon, G. (2023). [When it is ok to give the robot less: Children's fairness intuitions towards robots](https://doi.org/10.1007/s12369-023-01047-4). [*International Journal of Social Robotics, 15*]{.venue}(9), 1581–1601.
+- Hok, H., Martin, A., Trail, Z., & Shaw, A. (2020). [When children treat condemnation as a signal: The costs and benefits of condemnation](https://doi.org/10.1111/cdev.13323). [*Child Development, 91*]{.venue}(5), 1439–1455.
+:::
+
+### open science, metascience & digital scholarship
+
+::: {.pubs}
+- Cook, M., Hok, H., He, H., & Lischer-Katz, Z. (2026). [Immersive quality control for 3D data curation](https://doi.org/10.47989/ir31iConf64136). [*Information Research, 31*]{.venue}(iConf), 900–921. [Nominated as a finalist for Best Full Research Paper.]{.note}
+- Thomas, A. J., Hok, H., Bourg, C., & Saxe, R. (2026). [Support for open science is equally high in opt-in versus representative samples of scientists from a research-focused U.S. university](https://doi.org/10.1162/QSS.a.398). [*Quantitative Science Studies, 7*]{.venue}, 72–82.
+- Mills, N., Hok, H., Dressen, A., & Veillas, Q. (2025). [The design and evaluation of an interactive AI companion for foreign language writing](https://doi.org/10.1111/flan.12790). [*Foreign Language Annals, 58*]{.venue}(1), 40–69.
+:::
+
+## peer-reviewed conference proceedings
+
+::: {.pubs}
+- Hok, H., Saxe, R., & Thomas, A. J. (2026). US children and adults infer higher past rule-breaking, but lower present rule-breaking, in the presence of formal rules. [*Proceedings of the Annual Meeting of the Cognitive Science Society, 48*]{.venue}.
+- Wang, Y., Abdellatif, A., Deligianni, A., Hok, H., Cetinkaya, Y. M., & Elmas, T. (2026). [Grievance politics vs. policy debates: A cross-platform analysis of conservative discourse on Truth Social and Reddit](https://ojs.aaai.org/index.php/ICWSM/article/view/42758). [*Proceedings of the International AAAI Conference on Web and Social Media, 20*]{.venue}.
+- Hok, H., Thomas, A. J., & Saxe, R. (2025). [Written in stone: Lay intuitions about the emergence of formal rules](https://escholarship.org/uc/item/8tf7j3v5). [*Proceedings of the Annual Meeting of the Cognitive Science Society, 47*]{.venue}.
+- Richardson, E., Hok, H., Shaw, A., & Keil, F. (2023). Herding cats: Children's intuitive theories of persuasion predict slower collective decisions in larger and more diverse groups, but disregard factional power. [*Proceedings of the Annual Meeting of the Cognitive Science Society, 45*]{.venue}.
+:::
+
+## under review
+
+::: {.pubs}
+- Hok, H., & Shaw, A. What's fair is unfair: Children's beliefs about the flexible use of impartial decision-rules. [*Psychological Science*]{.venue}. [Under revision.]{.note}
+:::

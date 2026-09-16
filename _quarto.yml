@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - files/
+
+website:
+  title: "hannah hok kim"
+  site-url: "https://hannahhokkim.site"
+  description: "developmental psychologist — rules, procedures, groups, and (social) epistemologies of science"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: research.qmd
+        text: research
+      - href: publications.qmd
+        text: publications
+      - href: cv.qmd
+        text: cv
+    right:
+      - icon: envelope
+        href: "mailto:hok1@mit.edu"
+        aria-label: email
+      - icon: google
+        href: "https://scholar.google.com/"
+        aria-label: google scholar
+  page-footer:
+    border: false
+    left: "hannah hok kim"
+    right: "built with [quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    anchor-sections: true
+    link-external-newwindow: true
+    grid:
+      body-width: 860px
+      sidebar-width: 200px
+      margin-width: 200px
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">

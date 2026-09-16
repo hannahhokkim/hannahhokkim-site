@@ -50,18 +50,20 @@ rewrite this section.
 
 ## Step 3 — push
 
-In Terminal, inside the folder:
+The repo is already initialised with one commit, so you only need to connect it and push. In
+Terminal, inside the folder:
 
 ```bash
-git init -b main
-git add .
-git commit -m "initial commit: quarto site"
+git gc --prune=now          # clears temp files left by the sandbox I built this in
 git remote add origin https://github.com/YOUR-USERNAME/hannahhokkim-site.git
 git push -u origin main
 ```
 
 GitHub will ask you to sign in. Use a personal access token, not your password — GitHub walks you
 through it, or install the `gh` CLI and run `gh auth login` first, which handles it for you.
+
+If you'd rather start the history yourself, `rm -rf .git` first and then `git init -b main`,
+`git add .`, `git commit -m "initial commit"` before the two commands above.
 
 ## Step 4 — turn on Pages
 
